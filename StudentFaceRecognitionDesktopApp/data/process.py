@@ -1,4 +1,3 @@
-from typing import overload
 from data.config import Student, getconfig, add, remove, update
 import random
 import shutil
